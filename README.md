@@ -3,17 +3,21 @@ This is a minecraft Modpack for FABRIC!
 
 Made by Lukas Leander Læbel
 
-## New Ores
+## modpack including
+### New Ores
 bluecrystal
 
 ultrafire
 
-## New Blocks
+### New Blocks
 bluecrystal block
 
 spacestone
 
 meteoritestone
+
+### New Tools 
+ultrafire tools
 
 ## Items that can be blasted
 raw bluecrystal -> bluecrysal
