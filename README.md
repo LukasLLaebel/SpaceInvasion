@@ -3,7 +3,7 @@ This is a minecraft Modpack for FABRIC!
 
 Made by Lukas Leander Læbel
 
-## modpack including
+## Modpack including
 ### New Ores
 bluecrystal
 
