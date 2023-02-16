@@ -2,9 +2,14 @@
   "item.spaceinvasion.bluecrystal": "Bluecrystal",
   "item.spaceinvasion.raw_bluecrystal": "Raw Bluecrystal",
 
+  "item.spaceinvasion.ultrafire_ingot": "Ultrafire Ingot",
+  "item.spaceinvasion.raw_ultrafire": "Raw Ultrafire",
+  "item.spaceinvasion.ultrafire_nugget": "Ultrafire nugget",
+
   "block.spaceinvasion.bluecrystal_block": "Block Of Bluecrystal",
   "block.spaceinvasion.bluecrystal_ore": "Bluecrystal Ore",
   "block.spaceinvasion.deepslate_bluecrystal_ore": "Deepslate Bluecrystal Ore",
+
   "block.spaceinvasion.spacestone": "Space Stone",
   "block.spaceinvasion.spacecobble": "Space Cobble",
 

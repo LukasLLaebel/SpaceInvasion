@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "spaceinvasion:item/ultrafire_ingot"
+  }
+}

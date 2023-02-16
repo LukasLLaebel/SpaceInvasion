@@ -9,10 +9,11 @@ import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
-
+    // defining itemgroups
     public static ItemGroup SPACEMETAL;
     public static ItemGroup SPACESTONES;
 
+    // registering the different types of itemgroups
     public static void registerItemGroup() {
         SPACEMETAL = FabricItemGroup.builder(new Identifier(SpaceInvasion.MOD_ID, "spacemetal"))
                 .displayName(Text.translatable("itemgroup.spacemetal"))
