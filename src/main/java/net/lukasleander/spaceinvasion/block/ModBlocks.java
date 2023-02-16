@@ -15,14 +15,20 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModBlocks {
-    //Bluecrystal
+    // bluecrystal
     public static final Block BLUECRYSTAL_BLOCK = registerBlock("bluecrystal_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(3.0f).requiresTool()), ModItemGroup.SPACEMETAL);
     public static final Block BLUECRYSTAL_ORE = registerBlock("bluecrystal_ore",
             new Block(FabricBlockSettings.of(Material.STONE).strength(2.0f).requiresTool()), ModItemGroup.SPACEMETAL);
     public static final Block DEEPSLATE_BLUECRYSTAL_ORE = registerBlock("deepslate_bluecrystal_ore",
             new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), ModItemGroup.SPACEMETAL);
-    //spacestone
+    // ultrafire
+    public static final Block ULTRAFIRE_ORE = registerBlock("ultrafire_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(5.0f).requiresTool()), ModItemGroup.SPACEMETAL);
+    // meteorite stone
+    public static final Block METEORITESTONE = registerBlock("meteoritestone",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(5.0f).requiresTool()), ModItemGroup.SPACESTONES);
+    // spacestone
     public static final Block SPACESTONE = registerBlock("spacestone",
             new Block(FabricBlockSettings.of(Material.STONE).strength(1.0f).requiresTool()), ModItemGroup.SPACESTONES);
     public static final Block SPACECOBBLE = registerBlock("spacecobble",

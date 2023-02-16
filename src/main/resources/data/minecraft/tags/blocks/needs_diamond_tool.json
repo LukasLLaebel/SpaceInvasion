@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-
+    "spaceinvasion:meteoritestone",
+    "spaceinvasion:ultrafire_ore"
   ]
 }
