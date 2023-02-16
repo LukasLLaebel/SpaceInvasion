@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spaceinvasion:bluecrystal_block"
+    }
+  ],
+  "result": {
+    "item": "spaceinvasion:bluecrystal",
+    "count": 4
+  }
+}

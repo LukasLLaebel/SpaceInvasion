@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 120,
+  "experience": 0.5,
+  "group": "spacemetal",
+  "ingredient": {
+    "item": "spaceinvasion:raw_bluecrystal"
+  },
+  "result": "spaceinvasion:bluecrystal"
+}
