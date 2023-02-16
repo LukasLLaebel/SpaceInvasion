@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "spaceinvasion:bluecrystal_ore",
+    "spaceinvasion:deepslate_bluecrystal_ore",
+    "spaceinvasion:bluecrystal_block",
+    "spaceinvasion:spacestone",
+    "spaceinvasion:spacecobble"
+  ]
+}

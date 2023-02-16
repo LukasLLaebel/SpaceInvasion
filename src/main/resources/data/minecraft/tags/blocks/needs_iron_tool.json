@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "spaceinvasion:bluecrystal_block",
+    "spaceinvasion:bluecrystal_ore",
+    "spaceinvasion:deepslate_bluecrystal_ore"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "spaceinvasion",
+	"version": "${version}",
+	"name": "spaceinvasion",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Lukas Leander Laebel"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/spaceinvasion/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.lukasleander.spaceinvasion.SpaceInvasion"
+		],
+		"client": [
+			"net.lukasleander.spaceinvasion.SpaceInvasionClient"
+		],
+		"fabric-datagen": [
+			"net.lukasleander.spaceinvasion.SpaceInvasionDataGenerator"
+		]
+	},
+	"mixins": [
+		"spaceinvasion.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.14",
+		"minecraft": "~1.19.3",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

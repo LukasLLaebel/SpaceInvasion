@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "spaceinvasion:block/deepslate_bluecrystal_ore"
+  }
+}

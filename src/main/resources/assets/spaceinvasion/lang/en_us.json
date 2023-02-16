@@ -1,0 +1,13 @@
+{
+  "item.spaceinvasion.bluecrystal": "Bluecrystal",
+  "item.spaceinvasion.raw_bluecrystal": "Raw Bluecrystal",
+
+  "block.spaceinvasion.bluecrystal_block": "Block Of Bluecrystal",
+  "block.spaceinvasion.bluecrystal_ore": "Bluecrystal Ore",
+  "block.spaceinvasion.deepslate_bluecrystal_ore": "Deepslate Bluecrystal Ore",
+  "block.spaceinvasion.spacestone": "Space Stone",
+  "block.spaceinvasion.spacecobble": "Space Cobble",
+
+  "itemgroup.spacemetal": "Space Metals",
+  "itemgroup.spacestone": "Space Stones"
+}
