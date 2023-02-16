@@ -17,6 +17,13 @@
   "block.spaceinvasion.spacestone": "Space Stone",
   "block.spaceinvasion.spacecobble": "Space Cobble",
 
+  "item.spaceinvasion.ultrafire_sword": "Ultrafire Sword",
+  "item.spaceinvasion.ultrafire_axe": "Ultrafire Axe",
+  "item.spaceinvasion.ultrafire_hoe": "Ultrafire Hoe",
+  "item.spaceinvasion.ultrafire_pickaxe": "Ultrafire Pickaxe",
+  "item.spaceinvasion.ultrafire_shovel": "Ultrafire Shovel",
+
+  "itemgroup.spacetools": "Space Tools",
   "itemgroup.spacemetal": "Space Metals",
   "itemgroup.spacestone": "Space Stones"
 }

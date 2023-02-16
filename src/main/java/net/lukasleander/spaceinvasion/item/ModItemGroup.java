@@ -12,6 +12,7 @@ public class ModItemGroup {
     // defining itemgroups
     public static ItemGroup SPACEMETAL;
     public static ItemGroup SPACESTONES;
+    public static ItemGroup SPACETOOLS;
 
     // registering the different types of itemgroups
     public static void registerItemGroup() {
@@ -21,6 +22,9 @@ public class ModItemGroup {
         SPACESTONES = FabricItemGroup.builder(new Identifier(SpaceInvasion.MOD_ID, "spacestone"))
                 .displayName(Text.translatable("itemgroup.spacestone"))
                 .icon(() -> new ItemStack(ModBlocks.SPACESTONE)).build();
+        SPACETOOLS = FabricItemGroup.builder(new Identifier(SpaceInvasion.MOD_ID, "spacetools"))
+                .displayName(Text.translatable("itemgroup.spacetools"))
+                .icon(() -> new ItemStack(ModItems.ULTRAFIRE_SWORD)).build();
     }
 
 }
