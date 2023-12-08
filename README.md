@@ -27,7 +27,7 @@ raw bluecrystal -> bluecrysal
 raw ultrafire -> ultrafire ingot
 
 ## Item that can be smelted
-raw bluecrystal -> bluecrysal
+raw bluecrystal -> bluecrystal
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
